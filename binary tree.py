@@ -18,4 +18,4 @@ cold.right= fanta
 drinks.left = hot
 drinks.right = cold
 
-print(drinks.right.left)
+print(drinks.right.left.val)
